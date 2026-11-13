@@ -1,4 +1,4 @@
-**NBI Clearance and Identification Center – Document Tracking and Management System**
+## NBI Clearance and Identification Center – Document Tracking and Management System
 
 A centralized web platform that replaces paper-based logbooks and disconnected division records at the NBI Clearance and Identification Center (NCIC) with a shared, searchable digital system.
 
