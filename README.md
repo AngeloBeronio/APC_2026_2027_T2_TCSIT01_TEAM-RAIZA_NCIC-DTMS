@@ -1,9 +1,7 @@
-# Documentation Topics — NCIC-DTMS
 **NBI Clearance and Identification Center – Document Tracking and Management System**
 
 A centralized web platform that replaces paper-based logbooks and disconnected division records at the NBI Clearance and Identification Center (NCIC) with a shared, searchable digital system.
 
-## Team
 **TEAM RAIZA**
 - Marcus U. Montero
 - Anthony Angelo S. Beronio
@@ -11,10 +9,12 @@ A centralized web platform that replaces paper-based logbooks and disconnected d
 - Raiza Joy M. Juvida
 
 **Co-Authors**
+(MNTSDEV)
 - Jay James R. Arroyo
 - Manuel Sebastian S. Sanchez
 
 Asia Pacific College — School of Computing and Information Technologies
+
 MNTSDEV → MSYADD1
 
 ## Project Overview
